@@ -1,0 +1,16 @@
+# Iris Flower Classification Machine Learning Project
+
+A beginner-friendly machine learning project comparing Decision Tree and K-Nearest Neighbors (KNN) algorithms for botanical species classification.
+
+## Project Overview
+This project loads the classic Iris dataset, preprocesses and scales the features, trains two distinct machine learning models, and evaluates their predictive performance using accuracy scores and confusion matrices.
+
+## Dataset
+* **Source:** Scikit-learn built-in datasets (derived from the UCI Machine Learning Repository - Anderson's Iris Data).
+* **Features:** Sepal length, sepal width, petal length, petal width (cm).
+* **Target Classes:** Setosa, Versicolor, Virginica.
+
+## Setup & Installation Instructions
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
